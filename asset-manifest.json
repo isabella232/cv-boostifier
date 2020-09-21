@@ -34,8 +34,8 @@
     "static/js/13.4d8509f5.chunk.js": "/cv-boostifier/static/js/13.4d8509f5.chunk.js",
     "static/js/13.4d8509f5.chunk.js.map": "/cv-boostifier/static/js/13.4d8509f5.chunk.js.map",
     "main.css": "/cv-boostifier/static/css/main.1e42efda.chunk.css",
-    "main.js": "/cv-boostifier/static/js/main.5d71ca8c.chunk.js",
-    "main.js.map": "/cv-boostifier/static/js/main.5d71ca8c.chunk.js.map",
+    "main.js": "/cv-boostifier/static/js/main.b49b7c70.chunk.js",
+    "main.js.map": "/cv-boostifier/static/js/main.b49b7c70.chunk.js.map",
     "runtime-main.js": "/cv-boostifier/static/js/runtime-main.c6ec1dfd.js",
     "runtime-main.js.map": "/cv-boostifier/static/js/runtime-main.c6ec1dfd.js.map",
     "static/css/16.dda3df1b.chunk.css": "/cv-boostifier/static/css/16.dda3df1b.chunk.css",
@@ -455,7 +455,7 @@
     "theme-gruvbox.js": "/cv-boostifier/feff703ce532f20391dfed8199b6971e.js",
     "jsx.js": "/cv-boostifier/ff7acf7df3cdb56d704a5bd29f08fd55.js",
     "index.html": "/cv-boostifier/index.html",
-    "precache-manifest.e33df49860f776e8c2e712d199d51d2c.js": "/cv-boostifier/precache-manifest.e33df49860f776e8c2e712d199d51d2c.js",
+    "precache-manifest.ea735c79e639b9d27801f534a2288f21.js": "/cv-boostifier/precache-manifest.ea735c79e639b9d27801f534a2288f21.js",
     "service-worker.js": "/cv-boostifier/service-worker.js",
     "static/css/0.9798a1bc.chunk.css.map": "/cv-boostifier/static/css/0.9798a1bc.chunk.css.map",
     "static/css/1.e7345832.chunk.css.map": "/cv-boostifier/static/css/1.e7345832.chunk.css.map",
@@ -481,6 +481,6 @@
     "static/css/16.dda3df1b.chunk.css",
     "static/js/16.4c097027.chunk.js",
     "static/css/main.1e42efda.chunk.css",
-    "static/js/main.5d71ca8c.chunk.js"
+    "static/js/main.b49b7c70.chunk.js"
   ]
 }
