@@ -1,0 +1,2 @@
+(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[11],{45:function(i){i.exports=JSON.parse('{"displayName":"Basic","createdBy":[{"name":"Daniel Sternlicht","link":"https://github.com/dsternlicht"}]}')}}]);
+//# sourceMappingURL=11.c00a3b16.chunk.js.map

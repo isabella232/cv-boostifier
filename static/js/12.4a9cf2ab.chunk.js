@@ -1,2 +1,0 @@
-(this["webpackJsonpcv-geekifier"]=this["webpackJsonpcv-geekifier"]||[]).push([[12],{47:function(e){e.exports=JSON.parse('{"displayName":"CSS Typer","createdBy":[{"name":"Tsachi Shushan","link":"https://github.com/tsachis"}]}')}}]);
-//# sourceMappingURL=12.4a9cf2ab.chunk.js.map
