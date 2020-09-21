@@ -1,0 +1,1 @@
+{"version":3,"sources":["Swagger.scss"],"names":[],"mappings":"AAAA,iBACI,WAAY,CACf,mFAIG,YAAa","file":"1.e7345832.chunk.css","sourcesContent":["#swagger-wrapper {\n    flex-grow: 1;\n}\n\n\n.responses-inner > div > div > div:nth-child(1), .responses-inner > div > div > div:nth-child(2) {\n    display: none;\n}\n\n"]}

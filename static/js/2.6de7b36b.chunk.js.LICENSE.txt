@@ -1,0 +1,23 @@
+/*!
+   * Aliases
+   */
+
+/*!
+   * Alignment constants
+   */
+
+/*!
+   * Current library version, should match `package.json`
+   */
+
+/*!
+   * Instance methods
+   */
+
+/*!
+   * Module dependencies
+   */
+
+/*!
+   * Static methods
+   */
