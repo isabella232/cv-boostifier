@@ -1203,7 +1203,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cv-boostifier/ff7acf7df3cdb56d704a5bd29f08fd55.js"
   },
   {
-    "revision": "35ccd94ca93808d0a803661d969979ef",
+    "revision": "bfde9af7f017fa48e81eb95f8e2aba1a",
     "url": "/cv-boostifier/index.html"
   },
   {
@@ -1211,7 +1211,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cv-boostifier/static/css/0.9798a1bc.chunk.css"
   },
   {
-    "revision": "d7c4663ba8e258f50633",
+    "revision": "a30d8671035c1e1fa38b",
     "url": "/cv-boostifier/static/css/1.e7345832.chunk.css"
   },
   {
@@ -1247,7 +1247,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cv-boostifier/static/css/5.99c2dae6.chunk.css"
   },
   {
-    "revision": "7607a64f93f8077b5853",
+    "revision": "d496e0c7b1f7a8831898",
     "url": "/cv-boostifier/static/css/main.1e42efda.chunk.css"
   },
   {
@@ -1259,8 +1259,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cv-boostifier/static/js/0.49cea482.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d7c4663ba8e258f50633",
-    "url": "/cv-boostifier/static/js/1.4080327e.chunk.js"
+    "revision": "a30d8671035c1e1fa38b",
+    "url": "/cv-boostifier/static/js/1.e0556697.chunk.js"
   },
   {
     "revision": "4fe9bb7ebb12ae30c150",
@@ -1327,8 +1327,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cv-boostifier/static/js/5.6b800350.chunk.js"
   },
   {
-    "revision": "9fe9409df64ca577e2ee",
-    "url": "/cv-boostifier/static/js/6.0842e11c.chunk.js"
+    "revision": "4a21f6cf05406d5a9851",
+    "url": "/cv-boostifier/static/js/6.8fdb3d29.chunk.js"
   },
   {
     "revision": "2d0b7aac516f6ef3f831",
@@ -1347,12 +1347,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cv-boostifier/static/js/9.c7e6ff73.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7607a64f93f8077b5853",
-    "url": "/cv-boostifier/static/js/main.b49b7c70.chunk.js"
+    "revision": "d496e0c7b1f7a8831898",
+    "url": "/cv-boostifier/static/js/main.febd9ed3.chunk.js"
   },
   {
-    "revision": "f160f8533513e7768eb8",
-    "url": "/cv-boostifier/static/js/runtime-main.c6ec1dfd.js"
+    "revision": "f9f65b0a0dcf3ddbeaad",
+    "url": "/cv-boostifier/static/js/runtime-main.bf93a15e.js"
   },
   {
     "revision": "2b9b4872cd25494093c1eb14f0264a0b",
