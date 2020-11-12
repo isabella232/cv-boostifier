@@ -1,0 +1,2 @@
+(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[429],{556:function(i,o,s){i.exports=s.p+"static/media/wow.7d9013d4.png"}}]);
+//# sourceMappingURL=429.7bde48c7.chunk.js.map

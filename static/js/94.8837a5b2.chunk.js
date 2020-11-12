@@ -1,0 +1,2 @@
+(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[94],{844:function(i,o,s){i.exports=s.p+"static/media/Arkipelago.8d60d910.otf"}}]);
+//# sourceMappingURL=94.8837a5b2.chunk.js.map

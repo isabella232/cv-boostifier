@@ -1,0 +1,1 @@
+{"version":3,"sources":["skins/BackTo90s/fonts/oswald/Oswald-ExtraLight.ttf"],"names":["module","exports"],"mappings":"2GAAAA,EAAOC,QAAU,IAA0B","file":"static/js/100.fcc6563f.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/Oswald-ExtraLight.e100eff2.ttf\";"],"sourceRoot":""}

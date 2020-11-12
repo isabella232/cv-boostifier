@@ -1,0 +1,2 @@
+(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[34],{56:function(o,t,e){"use strict";e.r(t),e.d(t,"Floor",(function(){return n}));var i=e(0),r=e.n(i);function n(o){return r.a.createElement("div",{className:"floor",style:0!==o.worldSize?{width:"".concat(o.worldSize,"px")}:{}})}}}]);
+//# sourceMappingURL=34.0b8b7b3b.chunk.js.map

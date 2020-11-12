@@ -1,2 +1,0 @@
-(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[13],{50:function(s){s.exports=JSON.parse('{"displayName":"SQL Terminal","createdBy":[{"name":"Tsachi Shushan","link":"https://github.com/tsachis"}]}')}}]);
-//# sourceMappingURL=13.4d8509f5.chunk.js.map

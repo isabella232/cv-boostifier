@@ -1,0 +1,2 @@
+(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[37],{66:function(e,n,i){"use strict";i.r(n),i.d(n,"THEME_NICE",(function(){return s})),i.d(n,"THEME_MOVIE",(function(){return t}));var s={name:"jurassic-unix__theme-nice",baseHue:200,hueIncrement:90},t={name:"jurassic-unix__theme-movie",baseHue:340,hueIncrement:-130}}}]);
+//# sourceMappingURL=37.25279577.chunk.js.map

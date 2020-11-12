@@ -1,0 +1,1 @@
+{"version":3,"sources":["skins/Adventure/assets/game_background_2/layers/birds.png"],"names":["module","exports"],"mappings":"2GAAAA,EAAOC,QAAU,IAA0B","file":"static/js/349.e4b9a00d.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/birds.4eaf8275.png\";"],"sourceRoot":""}

@@ -1,0 +1,2 @@
+(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[340],{784:function(a,i,o){a.exports=o.p+"static/media/game_background_1_parallax.48bfd200.png"}}]);
+//# sourceMappingURL=340.85ef0a23.chunk.js.map

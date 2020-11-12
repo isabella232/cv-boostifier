@@ -1,0 +1,2 @@
+(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[386],{830:function(i,o,s){i.exports=s.p+"static/media/Rock_01.93b68830.png"}}]);
+//# sourceMappingURL=386.182315dd.chunk.js.map

@@ -1,0 +1,1 @@
+{"version":3,"sources":["skins/Adventure/assets/objects/Cloth_02_Blue.png"],"names":["module","exports"],"mappings":"2GAAAA,EAAOC,QAAU,IAA0B","file":"static/js/380.6e258f51.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/Cloth_02_Blue.b2a8c767.png\";"],"sourceRoot":""}

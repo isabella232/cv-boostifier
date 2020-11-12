@@ -1,0 +1,2 @@
+(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[418],{571:function(i,o,s){i.exports=s.p+"static/media/comix-man.4c5a0fd7.jpg"}}]);
+//# sourceMappingURL=418.8c202989.chunk.js.map

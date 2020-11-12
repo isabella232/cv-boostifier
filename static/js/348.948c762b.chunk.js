@@ -1,0 +1,2 @@
+(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[348],{792:function(i,o,s){i.exports=s.p+"static/media/game_background_2.bf7ad7ba.png"}}]);
+//# sourceMappingURL=348.948c762b.chunk.js.map

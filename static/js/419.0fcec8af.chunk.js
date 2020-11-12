@@ -1,0 +1,2 @@
+(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[419],{572:function(i,o,s){i.exports=s.p+"static/media/comix-woman.060e6d0e.png"}}]);
+//# sourceMappingURL=419.0fcec8af.chunk.js.map
