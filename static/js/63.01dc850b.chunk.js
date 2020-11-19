@@ -1,0 +1,2 @@
+(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[63],{89:function(s){s.exports=JSON.parse('{"displayName":"CSS Typer","createdBy":[{"name":"Tsachi Shushan","link":"https://github.com/tsachis"}]}')}}]);
+//# sourceMappingURL=63.01dc850b.chunk.js.map

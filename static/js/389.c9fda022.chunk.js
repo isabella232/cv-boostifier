@@ -1,0 +1,2 @@
+(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[389],{841:function(i,o,s){i.exports=s.p+"static/media/Log_Cabin_01 Model.1e291231.png"}}]);
+//# sourceMappingURL=389.c9fda022.chunk.js.map

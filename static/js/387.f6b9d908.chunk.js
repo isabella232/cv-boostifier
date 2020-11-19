@@ -1,0 +1,2 @@
+(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[387],{839:function(i,o,s){i.exports=s.p+"static/media/Cloth_02_Blue.b2a8c767.png"}}]);
+//# sourceMappingURL=387.f6b9d908.chunk.js.map

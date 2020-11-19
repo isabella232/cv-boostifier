@@ -1,0 +1,2 @@
+(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[148],{599:function(i,s,e){i.exports=e.p+"static/media/Idle_10.6e95d02f.png"}}]);
+//# sourceMappingURL=148.452af9a1.chunk.js.map

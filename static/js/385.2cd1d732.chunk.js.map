@@ -1,0 +1,1 @@
+{"version":3,"sources":["skins/Adventure/assets/objects/Campfire_01.png"],"names":["module","exports"],"mappings":"2GAAAA,EAAOC,QAAU,IAA0B","file":"static/js/385.2cd1d732.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/Campfire_01.2ca21497.png\";"],"sourceRoot":""}

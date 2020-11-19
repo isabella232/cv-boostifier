@@ -1,0 +1,2 @@
+(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[62],{87:function(a){a.exports=JSON.parse('{"displayName":"Comix","createdBy":[{"name":"Asaf Mazar","link":"https://github.com/asafcode"},{"name":"Hadas Segal","link":"https://www.linkedin.com/in/hadas-segal-506749121/"}]}')}}]);
+//# sourceMappingURL=62.35d11d5c.chunk.js.map

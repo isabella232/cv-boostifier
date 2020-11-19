@@ -1,2 +1,0 @@
-(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[384],{828:function(e,c,i){e.exports=i.p+"static/media/Plank_Fence_02.eec3cff1.png"}}]);
-//# sourceMappingURL=384.2df46c75.chunk.js.map

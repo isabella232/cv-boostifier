@@ -1,2 +1,0 @@
-(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[45],{48:function(i,t,e){"use strict";var s;e.r(t),e.d(t,"PerspectiveType",(function(){return s})),function(i){i[i.SIDE_VIEW=0]="SIDE_VIEW",i[i.TOP_VIEW=1]="TOP_VIEW"}(s||(s={}))}}]);
-//# sourceMappingURL=45.254bb0b0.chunk.js.map

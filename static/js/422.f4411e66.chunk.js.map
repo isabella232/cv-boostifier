@@ -1,0 +1,1 @@
+{"version":3,"sources":["skins/Basic3d/images/marble.jpg"],"names":["module","exports"],"mappings":"2GAAAA,EAAOC,QAAU,IAA0B","file":"static/js/422.f4411e66.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/marble.cbfd412d.jpg\";"],"sourceRoot":""}

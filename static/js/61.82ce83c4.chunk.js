@@ -1,0 +1,2 @@
+(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[61],{85:function(e){e.exports=JSON.parse('{"displayName":"3DCV","createdBy":[{"name":"Yaniv Golan","link":""}]}')}}]);
+//# sourceMappingURL=61.82ce83c4.chunk.js.map

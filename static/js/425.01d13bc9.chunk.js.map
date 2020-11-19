@@ -1,0 +1,1 @@
+{"version":3,"sources":["skins/Basic3d/images/scene-background.jpg"],"names":["module","exports"],"mappings":"2GAAAA,EAAOC,QAAU,IAA0B","file":"static/js/425.01d13bc9.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/scene-background.526b96a2.jpg\";"],"sourceRoot":""}

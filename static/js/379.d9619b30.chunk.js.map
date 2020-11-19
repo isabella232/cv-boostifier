@@ -1,1 +1,0 @@
-{"version":3,"sources":["skins/Adventure/assets/objects/Campfire_Cooking_01.png"],"names":["module","exports"],"mappings":"2GAAAA,EAAOC,QAAU,IAA0B","file":"static/js/379.d9619b30.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/Campfire_Cooking_01.dac5cce8.png\";"],"sourceRoot":""}

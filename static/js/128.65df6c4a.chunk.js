@@ -1,2 +1,0 @@
-(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[128],{887:function(i,o,s){i.exports=s.p+"static/media/loc-icon.48f29c73.svg"}}]);
-//# sourceMappingURL=128.65df6c4a.chunk.js.map

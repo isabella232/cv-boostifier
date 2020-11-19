@@ -1,2 +1,0 @@
-(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[404],{546:function(i,s,o){i.exports=o.p+"static/media/giphy.203717c1.gif"}}]);
-//# sourceMappingURL=404.9fb95cd3.chunk.js.map

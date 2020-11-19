@@ -1,2 +1,0 @@
-(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[393],{871:function(i,s,o){i.exports=o.p+"static/media/basic-bg-top.b85c0584.png"}}]);
-//# sourceMappingURL=393.15ae41de.chunk.js.map

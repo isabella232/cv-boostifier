@@ -1,1 +1,0 @@
-{"version":3,"sources":["skins/BackTo90s/images/skills-arrows.svg"],"names":["module","exports"],"mappings":"2GAAAA,EAAOC,QAAU,IAA0B","file":"static/js/135.ed3db741.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/skills-arrows.038cd73d.svg\";"],"sourceRoot":""}

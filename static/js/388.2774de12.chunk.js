@@ -1,0 +1,2 @@
+(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[388],{840:function(i,s,t){i.exports=t.p+"static/media/First_Aid_Kit_01.f0a9b856.png"}}]);
+//# sourceMappingURL=388.2774de12.chunk.js.map

@@ -1,2 +1,0 @@
-(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[406],{892:function(i,p,o){i.exports=o.p+"static/media/profile-picture.963447f0.png"}}]);
-//# sourceMappingURL=406.2b69afa2.chunk.js.map

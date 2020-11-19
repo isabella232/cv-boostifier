@@ -1,0 +1,2 @@
+(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[441],{563:function(s,e,i){s.exports=i.p+"static/media/speech-bubble-2.71a1758a.png"}}]);
+//# sourceMappingURL=441.ded6b5e3.chunk.js.map

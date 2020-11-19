@@ -1,2 +1,0 @@
-(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[114],{865:function(s,i,o){s.exports=o.p+"static/media/Oswald-Regular.edaa7375.woff2"}}]);
-//# sourceMappingURL=114.dd9facf2.chunk.js.map

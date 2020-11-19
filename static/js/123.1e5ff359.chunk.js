@@ -1,2 +1,0 @@
-(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[123],{880:function(s,i,o){s.exports=o.p+"static/media/dots.cdd133bf.svg"}}]);
-//# sourceMappingURL=123.1e5ff359.chunk.js.map

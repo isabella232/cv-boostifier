@@ -1,0 +1,2 @@
+(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[415],{910:function(s,i,o){s.exports=o.p+"static/media/skills-person.3a843ac1.png"}}]);
+//# sourceMappingURL=415.28a1d344.chunk.js.map

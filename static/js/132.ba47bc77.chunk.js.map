@@ -1,1 +1,0 @@
-{"version":3,"sources":["skins/BackTo90s/images/play-icon.svg"],"names":["module","exports"],"mappings":"2GAAAA,EAAOC,QAAU,IAA0B","file":"static/js/132.ba47bc77.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/play-icon.b525e617.svg\";"],"sourceRoot":""}

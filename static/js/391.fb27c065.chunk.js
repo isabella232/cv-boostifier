@@ -1,2 +1,0 @@
-(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[391],{835:function(t,e,i){t.exports=i.p+"static/media/Watchtower_01.334ec2ea.png"}}]);
-//# sourceMappingURL=391.fb27c065.chunk.js.map

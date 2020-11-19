@@ -1,2 +1,0 @@
-(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[383],{827:function(i,o,p){i.exports=p.p+"static/media/Log_Spike_Wall_02.2a089d26.png"}}]);
-//# sourceMappingURL=383.8e904049.chunk.js.map

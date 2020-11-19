@@ -1,2 +1,0 @@
-(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[131],{542:function(i,s,p){i.exports=p.p+"static/media/pink-floppy-disk.46e6e384.svg"}}]);
-//# sourceMappingURL=131.b8d3bba4.chunk.js.map

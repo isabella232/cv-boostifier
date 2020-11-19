@@ -1,2 +1,0 @@
-(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[379],{823:function(i,o,c){i.exports=c.p+"static/media/Campfire_Cooking_01.dac5cce8.png"}}]);
-//# sourceMappingURL=379.d9619b30.chunk.js.map

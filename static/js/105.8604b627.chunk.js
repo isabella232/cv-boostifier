@@ -1,2 +1,0 @@
-(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[105],{856:function(i,s,o){i.exports=o.p+"static/media/Oswald-Light.6b108550.woff"}}]);
-//# sourceMappingURL=105.8604b627.chunk.js.map

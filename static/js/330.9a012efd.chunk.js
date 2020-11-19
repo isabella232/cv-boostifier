@@ -1,2 +1,0 @@
-(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[330],{773:function(i,s,t){i.exports=t.p+"static/media/Satyr_03_Walking_009.765db6dc.png"}}]);
-//# sourceMappingURL=330.9a012efd.chunk.js.map

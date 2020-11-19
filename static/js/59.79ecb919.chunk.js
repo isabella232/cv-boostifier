@@ -1,2 +1,0 @@
-(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[59],{97:function(t){t.exports=JSON.parse('{"displayName":"Return of the CV","createdBy":[{"name":"Jan Holas","link":"https://github.com/janholas"},{"name":"Katja Golobic","link":"https://github.com/Katrca"}]}')}}]);
-//# sourceMappingURL=59.79ecb919.chunk.js.map

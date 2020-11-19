@@ -1,2 +1,0 @@
-(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[117],{868:function(i,o,s){i.exports=s.p+"static/media/Oswald-SemiBold.e34d9fbb.woff"}}]);
-//# sourceMappingURL=117.c38dea64.chunk.js.map

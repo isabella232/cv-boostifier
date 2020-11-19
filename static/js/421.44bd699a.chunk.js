@@ -1,2 +1,0 @@
-(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[421],{574:function(i,o,s){i.exports=s.p+"static/media/education-male.78dc3b06.png"}}]);
-//# sourceMappingURL=421.44bd699a.chunk.js.map

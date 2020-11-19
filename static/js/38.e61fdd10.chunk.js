@@ -1,2 +1,0 @@
-(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[38],{47:function(n,t,r){"use strict";r.r(t),r.d(t,"SIZE_UNIT",(function(){return i})),r.d(t,"SCENE_WIDTH",(function(){return u})),r.d(t,"BASE_HUE",(function(){return o})),r.d(t,"HUE_INCREMENT",(function(){return c})),r.d(t,"BOX_MARGIN",(function(){return e}));var i="vw",u=1e3,o=340,c=-130,e=.2}}]);
-//# sourceMappingURL=38.e61fdd10.chunk.js.map

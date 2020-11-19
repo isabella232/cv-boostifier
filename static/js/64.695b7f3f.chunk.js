@@ -1,0 +1,2 @@
+(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[64],{91:function(s){s.exports=JSON.parse('{"displayName":"Jurassic Unix","createdBy":[{"name":"Jernej Gosar","link":"https://github.com/jgosar"},{"name":"Matja\u017e \u0160uber"}]}')}}]);
+//# sourceMappingURL=64.695b7f3f.chunk.js.map

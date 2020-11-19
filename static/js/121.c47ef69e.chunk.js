@@ -1,2 +1,0 @@
-(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[121],{874:function(s,i,e){s.exports=e.p+"static/media/card-side.5891eaab.svg"}}]);
-//# sourceMappingURL=121.c47ef69e.chunk.js.map

@@ -1,0 +1,2 @@
+(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[383],{835:function(i,s,c){i.exports=c.p+"static/media/Barrel_01.ad6cc427.png"}}]);
+//# sourceMappingURL=383.a5f406af.chunk.js.map

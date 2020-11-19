@@ -1,2 +1,0 @@
-(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[124],{545:function(s,i,o){s.exports=o.p+"static/media/edu-bg-icons.957db315.svg"}}]);
-//# sourceMappingURL=124.a3830b32.chunk.js.map

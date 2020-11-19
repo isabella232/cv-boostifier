@@ -1,0 +1,1 @@
+{"version":3,"sources":["skins/JurassicUnix/types/perspective-type.tsx"],"names":["PerspectiveType"],"mappings":"sHAAO,IAAKA,EAAZ,uD,SAAYA,O,yBAAAA,I,wBAAAA,M","file":"static/js/50.5de0a002.chunk.js","sourcesContent":["export enum PerspectiveType{\n    SIDE_VIEW,\n    TOP_VIEW\n}\n"],"sourceRoot":""}

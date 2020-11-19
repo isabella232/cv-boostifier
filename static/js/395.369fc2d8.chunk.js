@@ -1,0 +1,2 @@
+(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[395],{847:function(i,s,t){i.exports=t.p+"static/media/Shelter_02_Sticks.0a13e4f0.png"}}]);
+//# sourceMappingURL=395.369fc2d8.chunk.js.map

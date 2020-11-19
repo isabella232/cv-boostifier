@@ -1,2 +1,0 @@
-(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[377],{821:function(t,i,s){t.exports=s.p+"static/media/Battery_01.7e548af6.png"}}]);
-//# sourceMappingURL=377.290726a4.chunk.js.map

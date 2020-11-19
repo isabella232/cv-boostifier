@@ -1,2 +1,0 @@
-(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[119],{561:function(i,o,s){i.exports=s.p+"static/media/about-outer-circle.26c511e1.svg"}}]);
-//# sourceMappingURL=119.25ab0fce.chunk.js.map

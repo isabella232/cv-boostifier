@@ -1,0 +1,1 @@
+{"version":3,"sources":["skins/Adventure/assets/game_background_4/layers/rocks.png"],"names":["module","exports"],"mappings":"2GAAAA,EAAOC,QAAU,IAA0B","file":"static/js/379.29740b77.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/rocks.d7b6b0a1.png\";"],"sourceRoot":""}

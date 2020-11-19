@@ -1,0 +1,2 @@
+(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[392],{844:function(i,s,t){i.exports=t.p+"static/media/Raft_01_Blue.d9d599f5.png"}}]);
+//# sourceMappingURL=392.2377d2a5.chunk.js.map

@@ -1,2 +1,0 @@
-(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[169],{612:function(i,p,s){i.exports=s.p+"static/media/Jump_9.76b21a1a.png"}}]);
-//# sourceMappingURL=169.0a6370ba.chunk.js.map

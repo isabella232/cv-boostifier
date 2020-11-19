@@ -1,0 +1,2 @@
+(this["webpackJsonpcv-boostifier"]=this["webpackJsonpcv-boostifier"]||[]).push([[410],{899:function(i,s,e){i.exports=e.p+"static/media/edu-image2.41cddd72.png"}}]);
+//# sourceMappingURL=410.2893562f.chunk.js.map
